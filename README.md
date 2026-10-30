@@ -6,8 +6,8 @@ This project implements four data structures from first principles (without usin
 
 
 This includes the following application exercises:
-- a. Balanced parentheses checker ()[]{} using stack
-- b. Print queue simulation using FIFO queue
+-  Balanced parentheses checker ()[]{} using stack
+-  Print queue simulation using FIFO queue
 
 
 ## Files
