@@ -1,11 +1,11 @@
-This project implements four data structures from first principles (without using Python's built-in insert(0) or pop(0)):
+## This project implements four data structures from first principles (without using Python's built-in insert(0) or pop(0)):
 1.  ArrayStack 
 2.  LinkedStack 
 3.  ArrayQueue 
 4.  LinkedQueue  
 
 
-This includes the following application exercises:
+## This includes the following application exercises:
 -  Balanced parentheses checker ()[]{} using stack
 -  Print queue simulation using FIFO queue
 
